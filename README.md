@@ -27,3 +27,4 @@ Data is in pickle format, which can be used with pandas.read_pickle("path_to_pic
 It is up to you to explore the data and decide on what to do with it in order to attain the expected results.
 
 Good luck!
+
